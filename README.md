@@ -12,11 +12,11 @@ Welcome to the **SQL Course** repository! This project contains a Jupyter notebo
 
 ## 📝 Enunciados <a name="enunciados"></a>
 
-The `Enunciados/` directory contains PDF files with the activity descriptions and requirements for the SQL exercises covered in this repository.
+The `enunciados/` directory contains PDF files with the activity descriptions and requirements for the SQL exercises covered in this repository.
 
 ## ⚙️ Usage <a name="usage"></a>
 
-The main content is within the `Actividades.ipynb` notebook, where you can follow along with the exercises and review the solutions. Each exercise corresponds to specific SQL tasks, ranging from database creation to complex queries.
+The main content is within the `actividades.ipynb` notebook, where you can follow along with the exercises and review the solutions. Each exercise corresponds to specific SQL tasks, ranging from database creation to complex queries.
 
 Additionally, the `img/` directory contains images that might be referenced within the notebook for explanations or visual aids.
 
