@@ -1,4 +1,4 @@
-# CursoSQL - Unión Informática 🗄️
+# 🗄️Curso SQL - Unión Informática
 
 Welcome to the **SQL Course** repository! This project contains a Jupyter notebook with exercises from a SQL course conducted by Unión Informática. The notebook focuses on creating and managing databases, writing SQL queries, and practicing database design concepts.
 
